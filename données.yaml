@@ -48,9 +48,6 @@ site:
               description: 
                 Le but était de créer un sit permettant d'afficher un protocole de recette.
               illustration: exemple.png
-              documents:
-                - recette.php
-                - recette.yaml
   
     - nom: Formation
       contenu:
